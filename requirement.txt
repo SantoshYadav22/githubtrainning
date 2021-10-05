@@ -2,3 +2,6 @@ color vibrate emoji
 type of option
  
  this is chat application
+dark mode 
+theme
+vedio call
